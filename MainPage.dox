@@ -1,0 +1,22 @@
+/**
+@mainpage Dokumentacja zadania drogi
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na mapach drogowych.
+
+### Author
+Cezary Choduń
+
+### Conventions
+<ul>
+    <li><b>MUST</b> - Not fulfilling the condition will result in error.</li>
+    <li><b>SHOULD</b> - It is possible to not fulfill the condition, but it is the implementation responsibility to ensure that no data structure will become corrupted afterwards.</li>
+    <li><b>NOTE</b> - A remainder that something(danagerous) is happening(eg. pointer becomes invalid).</li>
+</ul>
+
+*/
